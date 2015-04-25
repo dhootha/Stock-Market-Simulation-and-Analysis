@@ -1,6 +1,6 @@
-# innovation-contest15
+# Stock Market Simulation and Analysis
 
-QS Tool Kit based eventanalyzer and market simulator for backtesting. Sample reports in Reports folder.
+QS Tool Kit based eventanalyzer and market simulator for backtesting. Sample reports in Reports folder using bolllinger bands with Standard deviation 1 and 2 wit 20 days look back period.
 
 # Requirements:
 
