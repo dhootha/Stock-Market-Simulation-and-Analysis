@@ -1,0 +1,75 @@
+QSTK Generated Report: ID8 bollinger_fund
+
+It triggers buy signal when price breaches lower bollinger band from below (-2 SD) and market trades above 1 SD
+
+Performance Summary for ID8 bollinger_fund Backtest
+
+For the dates 01/02/2008 to 12/27/2012
+
+Resulting Values in $ with an initial investment of $100,000.00
+Bollinger_fund SD 2 Resulting Value:                      $169,619.00
+                SPY Resulting Value:                      $109,262.00
+
+Bollinger_fund    SD 2 Sharpe Ratio:                             0.760
+                   SPY Sharpe Ratio:                             0.198
+
+Transaction Costs
+                  Total Commissions:                $0.00,       0.00%
+                     Total Slippage:                $0.00,       0.00%
+         Total Short Borrowing Cost:                $0.00,       0.00%
+                        Total Costs:                $0.00,       0.00%
+
+Bollinger_fund with SD 2 Std Dev of Returns:                           +97.82 bps 
+             SPY Std Dev of Returns:                          +164.16 bps 
+
+                    SPYCorrelattion:                            +0.43
+                            SPYBeta:                            +0.26
+
+
+Yearly Performance Metrics
+                                             2008      2009      2010      2011      2012 
+                                            ------    ------    ------    ------    ------
+Bollinger_fund with SD 2 Annualized Return:        +2.17%   +19.71%   +12.95%    +2.82%   +12.48%
+              SPY Annualized Return:       -36.13%   +22.66%   +12.68%    +0.85%   +14.58%
+
+                                             2008      2009      2010      2011      2012 
+                                            ------    ------    ------    ------    ------
+Bollinger_fund with SD 2 Winning Days:       +73.12%   +64.29%   +64.68%   +67.46%   +75.40%
+                   SPY Winning Days:       +50.20%   +55.95%   +58.33%   +53.97%   +68.95%
+
+                                             2008      2009      2010      2011      2012 
+                                            ------    ------    ------    ------    ------
+Bollinger_fund with SD 2 Max Draw Down:       -11.42%   -13.48%   -17.92%   -10.23%    -9.69%
+                  SPY Max Draw Down:       -47.11%   -27.13%   -15.70%   -18.60%    -9.69%
+
+                                             2008      2009      2010      2011      2012 
+                                            ------    ------    ------    ------    ------
+Bollinger_fund with SD 2 Daily Sharpe Ratio:        +0.22     +0.95     +0.93     +0.27     +1.20 
+             SPY Daily Sharpe Ratio:        -0.88     +0.91     +0.76     +0.15     +1.31 
+
+                                             2008      2009      2010      2011      2012 
+                                            ------    ------    ------    ------    ------
+Bollinger_fund with SD 2 Daily Sortino Ratio:        +0.25     +1.11     +1.15     +0.33     +1.39 
+            SPY Daily Sortino Ratio:        -1.22     +1.27     +1.00     +0.20     +1.73 
+
+
+
+Correlation and Beta with DJ Industries for the Fund 
+ Materials($DJUSBM):  +nan,     +nan        Goods($DJUSNC):  +nan,     +nan   
+  Services($DJUSCY):  +nan,     +nan   Financials($DJUSFN):  +nan,     +nan   
+    Health($DJUSHC):  +nan,     +nan   Industrial($DJUSIN):  +nan,     +nan   
+ Oil & Gas($DJUSEN):  +nan,     +nan   Technology($DJUSTC):  +nan,     +nan   
+  TeleComm($DJUSTL):  +nan,     +nan    Utilities($DJUSUT):  +nan,     +nan   
+
+Correlation and Beta with Other Indices for the Fund 
+    S&P Index($SPX): +0.44,    +0.26       Dow Jones($DJI): +0.42,    +0.28   
+ Oil & Gas($DJUSEN):  +nan,     +nan        Metals($DJGSP):  +nan,     +nan   
+
+
+Monthly Returns for the Fund %
+        JAN    FEB    MAR    APR    MAY    JUN    JUL    AUG    SEP    OCT    NOV    DEC
+2008  +0.00  -1.60  -1.59  +1.28  +0.50  +0.50  +1.18  +3.78  +1.22  +0.00 -11.37  +9.50
+2009  +2.21  -8.45  +4.12  +2.40  +7.62  +0.86  +5.73  +1.59  +5.25  -4.98  -2.49  +7.74
+2010  -1.20  +7.52  +6.51  +2.35  -6.60  -7.41  +0.32  -1.96  +7.31  +4.71  +0.39  +3.01
+2011  +2.68  +4.27  +0.58  +2.47  -5.05  +0.56  -2.62  -3.08  +0.00 +10.69  -3.73  -2.02
+2012  +7.77  +4.29  +1.09  -5.02  -1.31  +2.00  -2.56  +5.05  +2.81  +0.00  +0.00  +0.00

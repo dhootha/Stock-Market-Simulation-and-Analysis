@@ -77,7 +77,7 @@ def bollinger(dt_start,dt_end, ls_symbols, lookback=20):
             val = bollval[s_sym].ix[ldt_timestamps[i]]
             valy = bollval[s_sym].ix[ldt_timestamps[i-1]]
             market = bollval['SPY'].ix[ldt_timestamps[i]]
-            if not flag and val >= -1 and valy < -1 and market > 0:
+            if not flag and val >= -2 and valy < -2 and market > 1:
 ##                print "hello"
                 df[s_sym].ix[ldt_timestamps[i]] = 1
 ##                if i+20 < len(ldt_timestamps):

@@ -70,10 +70,10 @@ print alloc
 portfolio,lev,comm,slip,bor = sim.tradesim_comb( alloc, historic_data,f_start_cash = 1000000, i_leastcount=1,
             b_followleastcount=True, f_slippage=0.0,
             f_minimumcommision=0.0, f_commision_share=0.0,
-            i_target_leverage=1, f_rate_borrow = 0.0, log="ID7.csv", b_exposure=False)
+            i_target_leverage=1, f_rate_borrow = 0.0, log="ID8.csv", b_exposure=False)
 
 
-report.print_html(portfolio[1::2],["SPY"], "ID7 bollinger_fund SD1",lf_dividend_rets=0.0, original="",
+report.print_html(portfolio[1::2],["SPY"], "ID8 bollinger_fund SD1",lf_dividend_rets=0.0, original="",
     s_fund_name="Bollinger_fund with SD 1", s_original_name="Original", d_trading_params="", d_hedge_params="",
     s_comments="", directory="Report", leverage=False, s_leverage_name="Leverage",commissions=0, slippage=0,
     borrowcost=0, i_start_cash=100000)
